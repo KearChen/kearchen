@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 你好，我是 KearChen
 
-<!--
-**KearChen/kearchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"落花有意随流水 流水无心恋落花"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 关于我
+
+- 🇨🇳 坐标：中国重庆
+- 🎓 在校大学生，专业为机电一体化技术（重庆科技大学专本贯通）
+- 🏢 重庆渝生行科技有限公司经理兼首席工程师
+- 🏢 上海天色初晓教育科技有限公司董事
+- 🏢 重庆蜕茧科技有限责任公司董事
+- 🖥️ 中国计算机学会（CCF）学生会员
