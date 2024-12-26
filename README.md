@@ -1,14 +1,10 @@
-# 👋 你好，我是 KearChen
-
-"落花有意随流水 流水无心恋落花"
-
+# 👋 Hello, I'm KearChen
+"The falling flowers willing to follow the flowing water, yet the water cares not for the affection of the falling flowers."
 ---
-
-## 🌍 关于我
-
-- 🇨🇳 坐标：中国重庆
-- 🎓 在校大学生，专业为机电一体化技术（重庆科技大学专本贯通）
-- 🏢 重庆渝生行科技有限公司经理兼首席工程师
-- 🏢 上海天色初晓教育科技有限公司董事
-- 🏢 重庆蜕茧科技有限责任公司董事
-- 🖥️ 中国计算机学会（CCF）学生会员
+## 🌍 About Me
+- 🇨🇳 Location: Chongqing, China
+- 🎓 Undergraduate student, majoring in Mechatronics Technology (Chongqing University of Science & Technology's integrated program)
+- 🏢 Manager and Chief Engineer at Chongqing Yusheng Xing Technology Co., Ltd.
+- 🏢 Director at Shanghai Dawnlight Education Technology Co., Ltd.
+- 🏢 Director at Chongqing Tuijian Technology Co., Ltd.
+- 🖥️ Student member of China Computer Federation (CCF)
