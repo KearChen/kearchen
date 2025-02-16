@@ -3,7 +3,6 @@
 ---
 ## 🌍 About Me
 - 🇨🇳 Location: Chongqing, China
-- 🎓 Undergraduate student, majoring in Mechatronics Technology (Chongqing University of Science & Technology's integrated program)
 - 🏢 Manager and Chief Engineer at Chongqing Yusheng Xing Technology Co., Ltd.
 - 🏢 Director at Shanghai Dawnlight Education Technology Co., Ltd.
 - 🏢 Director at Chongqing Tuijian Technology Co., Ltd.
